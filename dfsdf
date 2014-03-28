@@ -1,0 +1,43 @@
+[33mcommit b6344b7f78e7248858a30dc7bcc31c61aac0678b[m
+Merge: 1d833ed 85c382b
+Author: unknown <jklee@JKLEE-W764.gameon.office>
+Date:   Fri Mar 28 16:01:45 2014 +0900
+
+    Merge branch 'test' of github.com:jklee-gameon/SimpleTest into test
+
+[33mcommit 1d833edfb4d19b426bfa83dd17619e5deb1e54c5[m
+Merge: ab2ff2b 9dc92a5
+Author: unknown <jklee@JKLEE-W764.gameon.office>
+Date:   Fri Mar 28 16:00:03 2014 +0900
+
+    Merge branch 'test'
+
+[33mcommit 85c382b4644f261bdba526bd4506841dae4e026f[m
+Author: jklee-gameon <jklee@gameon.co.jp>
+Date:   Fri Mar 28 15:59:40 2014 +0900
+
+    Create test2
+
+[33mcommit ab2ff2b21ace0f359b55cc54192d2a076563e830[m
+Author: unknown <jklee@JKLEE-W764.gameon.office>
+Date:   Fri Mar 28 15:58:37 2014 +0900
+
+    master add
+
+[33mcommit 9dc92a56b0fcaa9d01f534e02dedfcd44dfc8375[m
+Author: jklee-gameon <jklee@gameon.co.jp>
+Date:   Fri Mar 28 15:50:33 2014 +0900
+
+    Create test1
+
+[33mcommit a3ecb026bb71689800e799d43e2c058cc3fb5a62[m
+Author: jklee-gameon <jklee@gameon.co.jp>
+Date:   Fri Mar 28 15:46:22 2014 +0900
+
+    Create stest
+
+[33mcommit 4260bea75a4eee5119a823944b4b2e37b5fdda73[m
+Author: unknown <jklee@JKLEE-W764.gameon.office>
+Date:   Fri Mar 28 15:39:41 2014 +0900
+
+    first file
